@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POWybory", "POWybory\POWybory.csproj", "{6E06181A-E9ED-47F4-BD0E-BABA5140703B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POWybory.Tests", "POWybory.Tests\POWybory.Tests.csproj", "{47C0E5D4-E359-447F-88ED-064FB12355BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E06181A-E9ED-47F4-BD0E-BABA5140703B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E06181A-E9ED-47F4-BD0E-BABA5140703B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E06181A-E9ED-47F4-BD0E-BABA5140703B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E06181A-E9ED-47F4-BD0E-BABA5140703B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C0E5D4-E359-447F-88ED-064FB12355BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C0E5D4-E359-447F-88ED-064FB12355BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C0E5D4-E359-447F-88ED-064FB12355BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C0E5D4-E359-447F-88ED-064FB12355BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
